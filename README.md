@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nayem, Full-stack Web developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on Upwork & Fiverr (https://fiverr.com/wdnayem (Fiverr)  
+- 🔭 I’m currently working on Upwork & Fiverr (https://fiverr.com/ (Fiverr)  
   
 
 
