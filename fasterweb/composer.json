@@ -1,0 +1,12 @@
+{
+    "name": "phparch/fasterweb",
+    "description": "A library faster web application.",
+    "type": "library",
+    "license": "OCS-1.0",
+    "autoload": {
+        "psr-4": {
+            "Phparch\\Fasterweb\\": "src/"
+        }
+    },
+    "require": {}
+}
